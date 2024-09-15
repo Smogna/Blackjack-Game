@@ -9,8 +9,9 @@ Logan House, Brayden Osterhoudt, Ruben Chavez
 Simulates a blackjack hand and reads an input from an interactable UI. Reports if your play was correct based on 'basic strategy' for Blackjack.
 
 # How was it made
-It was made in python using PyCharm
+It was made in python using PyCharm.
 The packages we used consist of:
+tkinter, custom tkinter, PIL
 
 # How to use
 Download the folder, find 'Blackjack GTO Trainer.exe', and run
