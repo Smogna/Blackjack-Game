@@ -13,4 +13,4 @@ It was made in python using PyCharm
 The packages we used consist of:
 
 # How to use
-Download the folder, find 'Blackjack Trainer.exe', and run
+Download the folder, find 'Blackjack GTO Trainer.exe', and run
