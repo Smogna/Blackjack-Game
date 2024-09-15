@@ -14,4 +14,4 @@ The packages we used consist of:
 tkinter, custom tkinter, PIL
 
 # How to use
-Download the folder, find 'Blackjack GTO Trainer.exe', and run
+Download the folder, open the 'Output' folder, find and run 'Blackjack GTO Trainer.exe', play blackjack
